@@ -37,7 +37,7 @@ This is an API for an app where a user can register/login and CRUD contacts.
 
 ## Getting Started
 
-This section is to walk you through the setup for running the automation tests.
+This section is to walk you through the setup for the app
 
 ### Prerequisites
 
