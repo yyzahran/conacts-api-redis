@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<h1 align="center">NodeJS and Redis App</h1>
+<h1 align="center">NodeJS, Express, and Redis App</h1>
 
   <p align="center">
     
@@ -69,7 +69,7 @@ You'll need NodeJS and a functioning Redis server to run this app.
 
 - The controllers for auth and contacts can be found at `/controllers`
 - Different error types are at `/errors`
-- Middleware for authentication and error handling are at `/middleware`
+- Middleware for authentication and Express error handling are at `/middleware`
 - There are two routes for the app, `/auth` and `/contacts` that are at `/routes`
 - Services include the Redis setup, including keys and types
 - Helper methods are at `/services/utils.js`
